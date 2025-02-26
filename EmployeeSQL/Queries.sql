@@ -76,7 +76,7 @@ WHERE d.dept_name = 'Sales'; -- on condition that the department name in the dep
 
 
 --7- SALES AND DEVELOPMENT DEPARTMENT EMPLOYEES
----- List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name (4 points)
+---- List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name
 
 SELECT --selected the four columns
     e.emp_no, 

@@ -2,7 +2,7 @@
 # SQL Challenge: Employee Database Analysis
 
 ## Overview
-In this Project, I analize employee data from Pewlett Hackard (a fictional company) from the 1980s and 1990s. The analysis is based on six CSV files containing various employee information. The project includes data modeling, data engineering, and data analysis.
+In this Project, I analyze employee data from Pewlett Hackard (a fictional company) from the 1980s and 1990s. The analysis is based on six CSV files containing various employee information. The project includes data modeling, data engineering, and data analysis.
 
 ## Assignment Structure 
 The repository is organized as follows:
